@@ -9,7 +9,7 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**AXON OSS**](https://github.com/Frezzaroukos/axon) | Python · TypeScript · Next.js · React | Open-source local-first AI Operating System. Multi-provider AI Router (14 providers), RAG vault, ML intent classification, cost optimization, 25-panel cockpit, semantic cache. |
+| **AXON OSS** 🔒 | Python · TypeScript · Next.js · React | Local-first AI Operating System *(private — case study on request)*. 12-provider AI Router with ML intent classification + cost optimization, RAG vault, semantic cache, 44-panel Next.js cockpit, booking/billing stack powering AI employees for local businesses. |
 | **Arion** | Rust | AI-OS core — performance-critical systems in Rust. |
 | **E.W.O** | TypeScript · React | Unified business automation with drag-and-drop UI and API integration. |
 | **StrayLink** | TypeScript · React | Γέφυρα επικοινωνίας πολιτών & δημοτικών αρχών για αδέσποτα στην Ελλάδα. |
@@ -33,7 +33,7 @@
 `RAG` `Semantic Search` `ML Classification` `Fine-tuning` `ONNX`
 
 **Systems:**  
-`Linux (EndeavourOS/Arch)` `Hyprland` `ROCm` `AMD GPU`  
+`Linux (EndeavourOS/Arch)` `Niri (Wayland)` `ROCm` `AMD GPU`  
 `Self-hosted` `Local-first` `Privacy-first`
 
 ---
