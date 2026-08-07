@@ -13,7 +13,7 @@
 | **Arion** | Rust | AI-OS core — performance-critical systems in Rust. |
 | **E.W.O** | TypeScript · React | Unified business automation with drag-and-drop UI and API integration. |
 | **StrayLink** | TypeScript · React | Γέφυρα επικοινωνίας πολιτών & δημοτικών αρχών για αδέσποτα στην Ελλάδα. |
-| **Strength Atlas** | TypeScript · React | Fitness & training progress platform. |
+| **Anabasis** ✅ | TypeScript · React · Dexie · PWA | **[▶ Live](https://anabasis.axonos.dev)** · **[repo](https://github.com/Frezzaroukos/anabasis)** — Weighted calisthenics & skill-progression tracker. Offline-first, TypeScript strict, 128 tests, bilingual (EN/EL). |
 
 ---
 
