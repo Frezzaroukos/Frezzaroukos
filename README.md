@@ -46,6 +46,22 @@ happy to walk through the architecture.
 
 ---
 
+## How I work, and where I'm going
+
+I build with **AI agents in the loop** — they generate a lot of the code; I own
+the architecture, the trade-offs and the review. The commit history in these
+repos is written to explain *why* each change was made, not just what changed.
+That reasoning is the part that is actually mine, and it is the part I would
+want to be judged on.
+
+I don't intend to stay there. I'm deliberately deepening the fundamentals:
+writing more of the code by hand, starting NVIDIA's developer courses, and
+moving toward **lower-level systems** — how things behave close to the
+hardware, not only how to call them.
+
+I follow AI development daily and test what's new against real projects rather
+than demos.
+
 ## Stack
 
 **Daily:** TypeScript · Python · React · Node · PostgreSQL · Docker · Linux (Arch)
