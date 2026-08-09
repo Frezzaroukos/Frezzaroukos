@@ -1,56 +1,67 @@
-# 👋 Γεια σου, είμαι ο **Aggelos** — Frezzaroukos
+# Aggelos Frezzaroukos
 
-> AI systems engineer · open-source architect · full-stack developer  
-> **19 y.o.** — building the future of local-first AI
+I build **local-first software** — apps that keep working without a network and
+keep your data on your device.
 
----
-
-### 🧠 What I'm Building
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **AXON OSS** 🔒 | Python · TypeScript · Next.js · React | Local-first AI Operating System *(private — case study on request)*. 12-provider AI Router with ML intent classification + cost optimization, RAG vault, semantic cache, 44-panel Next.js cockpit, booking/billing stack powering AI employees for local businesses. |
-| **Arion** | Rust | AI-OS core — performance-critical systems in Rust. |
-| **E.W.O** | TypeScript · React | Unified business automation with drag-and-drop UI and API integration. |
-| **StrayLink** | TypeScript · React | Γέφυρα επικοινωνίας πολιτών & δημοτικών αρχών για αδέσποτα στην Ελλάδα. |
-| **Anabasis** ✅ | TypeScript · React · Dexie · PWA | **[▶ Live](https://anabasis.axonos.dev)** · **[repo](https://github.com/Frezzaroukos/anabasis)** — Weighted calisthenics & skill-progression tracker. Offline-first, TypeScript strict, 154 tests, schema migrations v1→v9, bilingual (EN/EL). |
-| **Thermidor** ✅ | TypeScript · React 19 · Supabase · PWA | **[▶ Live](https://frezzaroukos.github.io/thermidor/)** · **[repo](https://github.com/Frezzaroukos/thermidor)** — AI-augmented calorie tracker. Multi-provider AI chat (OpenAI/Anthropic/Google/Ollama), offline-first, optional cloud sync. |
+Currently completing military service in Greece · available from **late October 2026**
+· based in Ρέθυμνο, Crete.
 
 ---
 
-### 🛠️ Tech Stack
+## Things you can open right now
 
-**Languages:**  
-`Python` `TypeScript` `Rust` `Go` `JavaScript` `Bash`
+### 🏔️ Anabasis — weighted calisthenics & skill progression
+**[▶ Live demo](https://anabasis.axonos.dev)** · **[Source](https://github.com/Frezzaroukos/anabasis)**
 
-**Frontend / UI:**  
-`React` `Next.js` `Tailwind CSS` `Framer Motion` `Svelte` `Tauri`
+Offline-first PWA. No account, no server — everything lives in IndexedDB and
+exports to JSON. Nine schema versions of migrations, all additive. 154 tests,
+concentrated where a mistake would be silent: the goal-window calculator, PR
+detection, and migrations. TypeScript strict, bilingual EN/EL.
 
-**Backend / Infrastructure:**  
-`Node.js` `FastAPI` `LanceDB` `PostgreSQL` `Docker` `Redis`
+`TypeScript` · `React` · `Dexie/IndexedDB` · `Tailwind` · `Vitest` · `PWA`
 
-**AI / ML:**  
-`Ollama` `Llama.cpp` `OpenRouter` `Groq` `Cerebras` `Gemini`  
-`RAG` `Semantic Search` `ML Classification` `Fine-tuning` `ONNX`
+### 🥗 Thermidor — AI-augmented calorie tracker
+**[▶ Live demo](https://frezzaroukos.github.io/thermidor/)** · **[Source](https://github.com/Frezzaroukos/thermidor)**
 
-**Systems:**  
-`Linux (EndeavourOS/Arch)` `Niri (Wayland)` `ROCm` `AMD GPU`  
-`Self-hosted` `Local-first` `Privacy-first`
+Tell it what you ate and it logs it. Multi-provider AI chat (OpenAI, Anthropic,
+Google, or a local Ollama model — your choice, your key). Works fully offline;
+cloud sync is opt-in, not required.
 
----
+`TypeScript` · `React 19` · `Supabase` · `Zustand` · `Chart.js` · `PWA`
 
-### 📊 GitHub Stats
+### ✂️ Block Barbers — booking system for a barbershop in Ρέθυμνο
+**[▶ Live](https://axonos.dev/book/block-barbers)**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frezzaroukos&show_icons=true&theme=radical&hide=contribs)
-
----
-
-### 📫 Contact
-
-- **Email:** aggelosf2016@gmail.com  
-- **Location:** Greece 🇬🇷 · Ρέθυμνο Κρήτης  
-- **Focus:** AI systems · Open source · Local-first privacy tech
+Real business, real constraints: multi-barber scheduling, deposits, and an
+owner-facing admin. Client work, so the source is private.
 
 ---
 
-*"The signal of intelligence."*
+## Currently building
+
+**AXON OSS** — a local-first AI operating system I use to run my own work:
+a router across multiple model providers, a searchable knowledge vault, and
+the automation behind the booking products above. Private while it stabilises;
+happy to walk through the architecture.
+
+---
+
+## Stack
+
+**Daily:** TypeScript · Python · React · Node · PostgreSQL · Docker · Linux (Arch)
+
+**Comfortable:** Next.js · Tailwind · Supabase · FastAPI · SQLite/Dexie · Bash
+
+**Learning / used in side projects:** Rust · Go · Tauri
+
+**AI:** local inference with Ollama and llama.cpp on AMD/ROCm · multi-provider
+routing · RAG · prompt and cost optimisation
+
+---
+
+## Contact
+
+**aggelosf2016@gmail.com** · Ρέθυμνο, Greece 🇬🇷
+
+Open to junior software / AI engineering roles from late October 2026, and to
+freelance work before then.
