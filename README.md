@@ -13,7 +13,8 @@
 | **Arion** | Rust | AI-OS core — performance-critical systems in Rust. |
 | **E.W.O** | TypeScript · React | Unified business automation with drag-and-drop UI and API integration. |
 | **StrayLink** | TypeScript · React | Γέφυρα επικοινωνίας πολιτών & δημοτικών αρχών για αδέσποτα στην Ελλάδα. |
-| **Anabasis** ✅ | TypeScript · React · Dexie · PWA | **[▶ Live](https://anabasis.axonos.dev)** · **[repo](https://github.com/Frezzaroukos/anabasis)** — Weighted calisthenics & skill-progression tracker. Offline-first, TypeScript strict, 128 tests, bilingual (EN/EL). |
+| **Anabasis** ✅ | TypeScript · React · Dexie · PWA | **[▶ Live](https://anabasis.axonos.dev)** · **[repo](https://github.com/Frezzaroukos/anabasis)** — Weighted calisthenics & skill-progression tracker. Offline-first, TypeScript strict, 154 tests, schema migrations v1→v9, bilingual (EN/EL). |
+| **Thermidor** ✅ | TypeScript · React 19 · Supabase · PWA | **[▶ Live](https://frezzaroukos.github.io/thermidor/)** · **[repo](https://github.com/Frezzaroukos/thermidor)** — AI-augmented calorie tracker. Multi-provider AI chat (OpenAI/Anthropic/Google/Ollama), offline-first, optional cloud sync. |
 
 ---
 
