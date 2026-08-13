@@ -77,7 +77,7 @@ routing · RAG · prompt and cost optimisation
 
 ## Contact
 
-**aggelosf2016@gmail.com** · Ρέθυμνο, Greece 🇬🇷
+**aggelosf2016@gmail.com** · [portfolio.axonos.dev](https://portfolio.axonos.dev) · Ρέθυμνο, Greece 🇬🇷
 
 Open to junior software / AI engineering roles from late October 2026, and to
 freelance work before then.
