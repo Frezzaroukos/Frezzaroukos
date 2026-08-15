@@ -1,4 +1,4 @@
-# Aggelos Frezzaroukos
+# Aggelos Frantzeskakis
 
 I build **local-first software** — apps that keep working without a network and
 keep your data on your device.
