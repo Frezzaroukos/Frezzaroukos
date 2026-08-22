@@ -14,7 +14,7 @@ Currently completing military service in Greece · available from **late October
 Rust HTTP core (axum) + Python agents, Postgres/Qdrant/Ollama, MCP client **and**
 server, curated + auto-extracted memory with semantic dedup, cross-collection RAG.
 
-**[Aegis](https://github.com/Frezzaroukos/aegis)** — policy-governed action layer
+**[AXON OS](https://github.com/Frezzaroukos/axon-os)** — policy-governed action layer
 for an AI-driven desktop: **preview → approve → execute → verify → audit → undo**.
 Zero runtime dependencies, allowlist-not-denylist, fail-closed by default.
 
@@ -59,7 +59,7 @@ owner-facing admin. Client work, so the source is private.
 a router across multiple model providers, a searchable knowledge vault, and
 the automation behind the booking products above. The two pieces that stand on
 their own are already public — [Arion](https://github.com/Frezzaroukos/arion)
-and [Aegis](https://github.com/Frezzaroukos/aegis); the rest stays private
+and [AXON OS](https://github.com/Frezzaroukos/axon-os); the rest stays private
 while it stabilises. Happy to walk through the architecture.
 
 ---
