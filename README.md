@@ -8,6 +8,22 @@ Currently completing military service in Greece · available from **late October
 
 ---
 
+## Systems & AI infrastructure
+
+**[Arion](https://github.com/Frezzaroukos/arion)** — personal AI operating layer:
+Rust HTTP core (axum) + Python agents, Postgres/Qdrant/Ollama, MCP client **and**
+server, curated + auto-extracted memory with semantic dedup, cross-collection RAG.
+
+**[Aegis](https://github.com/Frezzaroukos/aegis)** — policy-governed action layer
+for an AI-driven desktop: **preview → approve → execute → verify → audit → undo**.
+Zero runtime dependencies, allowlist-not-denylist, fail-closed by default.
+
+**[Panargus](https://github.com/Frezzaroukos/panargus)** — browser orchestration
+over raw CDP with a port-lease broker so concurrent agents can share one browser
+without fighting over it.
+
+---
+
 ## Things you can open right now
 
 ### 🏔️ Anabasis — weighted calisthenics & skill progression
@@ -41,8 +57,10 @@ owner-facing admin. Client work, so the source is private.
 
 **AXON OSS** — a local-first AI operating system I use to run my own work:
 a router across multiple model providers, a searchable knowledge vault, and
-the automation behind the booking products above. Private while it stabilises;
-happy to walk through the architecture.
+the automation behind the booking products above. The two pieces that stand on
+their own are already public — [Arion](https://github.com/Frezzaroukos/arion)
+and [Aegis](https://github.com/Frezzaroukos/aegis); the rest stays private
+while it stabilises. Happy to walk through the architecture.
 
 ---
 
