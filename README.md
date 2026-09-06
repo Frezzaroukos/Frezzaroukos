@@ -40,7 +40,7 @@ additive migrations. TypeScript strict, bilingual EN/EL.
 `TypeScript` · `React` · `Rust/Axum` · `Dexie/IndexedDB` · `Tauri` · `Tailwind` · `Vitest` · `PWA`
 
 ### 🥗 Thermidor — AI-augmented calorie tracker
-**[▶ Live demo](https://frezzaroukos.github.io/thermidor/)** · **[Source](https://github.com/Frezzaroukos/thermidor)**
+**[▶ Live demo](https://thermidor.axonos.dev)** · **[Source](https://github.com/Frezzaroukos/thermidor)**
 
 Tell it what you ate and it logs it. Multi-provider AI chat (OpenAI, Anthropic,
 Google, or a local Ollama model — your choice, your key). Works fully offline;
