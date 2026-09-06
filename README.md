@@ -29,12 +29,15 @@ without fighting over it.
 ### 🏔️ Anabasis — weighted calisthenics & skill progression
 **[▶ Live demo](https://anabasis.axonos.dev)** · **[Source](https://github.com/Frezzaroukos/anabasis)**
 
-Offline-first PWA. No account, no server — everything lives in IndexedDB and
-exports to JSON. Nine schema versions of migrations, all additive. 154 tests,
-concentrated where a mistake would be silent: the goal-window calculator, PR
-detection, and migrations. TypeScript strict, bilingual EN/EL.
+Offline-first PWA that scales up cleanly. Everything works with zero network in
+IndexedDB and exports to JSON; an **optional Rust/Axum backend** adds accounts, an
+admin surface, real last-write-wins **cross-device sync** (per-account cursor +
+epoch reconciliation), and **friends & leaderboards** — and it ships as a native
+**Tauri desktop** app too. ~460 tests, concentrated where a mistake would be
+silent: the goal-window calculator, PR detection, sync/epoch reconciliation, and
+additive migrations. TypeScript strict, bilingual EN/EL.
 
-`TypeScript` · `React` · `Dexie/IndexedDB` · `Tailwind` · `Vitest` · `PWA`
+`TypeScript` · `React` · `Rust/Axum` · `Dexie/IndexedDB` · `Tauri` · `Tailwind` · `Vitest` · `PWA`
 
 ### 🥗 Thermidor — AI-augmented calorie tracker
 **[▶ Live demo](https://frezzaroukos.github.io/thermidor/)** · **[Source](https://github.com/Frezzaroukos/thermidor)**
