@@ -1,104 +1,17 @@
 # Aggelos Frantzeskakis
 
-I build **local-first software** — apps that keep working without a network and
-keep your data on your device.
+Junior software developer based in Crete, Greece. I build product software with a focus on clear interfaces, dependable behavior, and systems that work well on real devices.
 
-Currently completing military service in Greece · available from **late October 2026**
-· based in Ρέθυμνο, Crete.
+## Selected work
 
----
+1. **[Anabasis](https://github.com/Frezzaroukos/anabasis)** — an offline-first training tracker for weighted calisthenics and skill progressions. React and TypeScript PWA, optional Rust/Axum sync API, and a Tauri desktop app. [Live demo](https://anabasis.axonos.dev)
+2. **[AXON OS](https://github.com/Frezzaroukos/axon-os)** — a local-first Linux action layer that puts preview and explicit approval before desktop automation, then verifies and records the result.
+3. **[Anafora](https://github.com/Frezzaroukos/anafora)** — a Greek-first local document tool that turns notes into editable drafts and marks claims that need review.
 
-## Systems & AI infrastructure
+## Tools I use
 
-**[Arion](https://github.com/Frezzaroukos/arion)** — personal AI operating layer:
-Rust HTTP core (axum) + Python agents, Postgres/Qdrant/Ollama, MCP client **and**
-server, curated + auto-extracted memory with semantic dedup, cross-collection RAG.
+TypeScript, React, Node.js, Python, Rust, SQL, Vitest, and Node's test runner. I enjoy building offline-capable applications, small backend services, and carefully bounded automation.
 
-**[AXON OS](https://github.com/Frezzaroukos/axon-os)** — policy-governed action layer
-for an AI-driven desktop: **preview → approve → execute → verify → audit → undo**.
-Zero runtime dependencies, allowlist-not-denylist, fail-closed by default.
+Available from 25 October 2026 for a junior software or AI engineering role in Chania, elsewhere in Crete, or remote.
 
-**[Panargus](https://github.com/Frezzaroukos/panargus)** — browser orchestration
-over raw CDP with a port-lease broker so concurrent agents can share one browser
-without fighting over it.
-
----
-
-## Things you can open right now
-
-### 🏔️ Anabasis — weighted calisthenics & skill progression
-**[▶ Live demo](https://anabasis.axonos.dev)** · **[Source](https://github.com/Frezzaroukos/anabasis)**
-
-Offline-first PWA that scales up cleanly. Everything works with zero network in
-IndexedDB and exports to JSON; an **optional Rust/Axum backend** adds accounts, an
-admin surface, real last-write-wins **cross-device sync** (per-account cursor +
-epoch reconciliation), and **friends & leaderboards** — and it ships as a native
-**Tauri desktop** app too. ~460 tests, concentrated where a mistake would be
-silent: the goal-window calculator, PR detection, sync/epoch reconciliation, and
-additive migrations. TypeScript strict, bilingual EN/EL.
-
-`TypeScript` · `React` · `Rust/Axum` · `Dexie/IndexedDB` · `Tauri` · `Tailwind` · `Vitest` · `PWA`
-
-### 🥗 Thermidor — AI-augmented calorie tracker
-**[▶ Live demo](https://thermidor.axonos.dev)** · **[Source](https://github.com/Frezzaroukos/thermidor)**
-
-Tell it what you ate and it logs it. Multi-provider AI chat (OpenAI, Anthropic,
-Google, or a local Ollama model — your choice, your key). Works fully offline;
-cloud sync is opt-in, not required.
-
-`TypeScript` · `React 19` · `Supabase` · `Zustand` · `Chart.js` · `PWA`
-
-### ✂️ Block Barbers — booking system for a barbershop in Ρέθυμνο
-**[▶ Live](https://axonos.dev/book/block-barbers)**
-
-Real business, real constraints: multi-barber scheduling, deposits, and an
-owner-facing admin. Client work, so the source is private.
-
----
-
-## Currently building
-
-**AXON OSS** — a local-first AI operating system I use to run my own work:
-a router across multiple model providers, a searchable knowledge vault, and
-the automation behind the booking products above. The two pieces that stand on
-their own are already public — [Arion](https://github.com/Frezzaroukos/arion)
-and [AXON OS](https://github.com/Frezzaroukos/axon-os); the rest stays private
-while it stabilises. Happy to walk through the architecture.
-
----
-
-## How I work, and where I'm going
-
-I build with **AI agents in the loop** — they generate a lot of the code; I own
-the architecture, the trade-offs and the review. The commit history in these
-repos is written to explain *why* each change was made, not just what changed.
-That reasoning is the part that is actually mine, and it is the part I would
-want to be judged on.
-
-I don't intend to stay there. I'm deliberately deepening the fundamentals:
-writing more of the code by hand, starting NVIDIA's developer courses, and
-moving toward **lower-level systems** — how things behave close to the
-hardware, not only how to call them.
-
-I follow AI development daily and test what's new against real projects rather
-than demos.
-
-## Stack
-
-**Daily:** TypeScript · Python · React · Node · PostgreSQL · Docker · Linux (Arch)
-
-**Comfortable:** Next.js · Tailwind · Supabase · FastAPI · SQLite/Dexie · Bash
-
-**Learning / used in side projects:** Rust · Go · Tauri
-
-**AI:** local inference with Ollama and llama.cpp on AMD/ROCm · multi-provider
-routing · RAG · prompt and cost optimisation
-
----
-
-## Contact
-
-**aggelosf2016@gmail.com** · [portfolio.axonos.dev](https://portfolio.axonos.dev) · Ρέθυμνο, Greece 🇬🇷
-
-Open to junior software / AI engineering roles from late October 2026, and to
-freelance work before then.
+**Contact:** [portfolio.axonos.dev](https://portfolio.axonos.dev)
