@@ -1,17 +1,21 @@
 # Aggelos Frantzeskakis
 
-Junior software developer based in Crete, Greece. I build product software with a focus on clear interfaces, dependable behavior, and systems that work well on real devices.
+I build software, automation and AI for businesses in Crete — and I'm open to a junior software or AI engineering role (Crete or remote).
+*Φτιάχνω λογισμικό, αυτοματισμούς και AI για επιχειρήσεις στην Κρήτη — και είμαι ανοιχτός και σε θέση junior developer.*
 
-## Selected work
+**[portfolio.axonos.dev](https://portfolio.axonos.dev)** · [Ελληνικά](https://portfolio.axonos.dev/el/) · [Services](https://portfolio.axonos.dev/#services) · contact@axonos.dev
 
-1. **[Anabasis](https://github.com/Frezzaroukos/anabasis)** — an offline-first training tracker for weighted calisthenics and skill progressions. React and TypeScript PWA, optional Rust/Axum sync API, and a Tauri desktop app. [Live demo](https://anabasis.axonos.dev)
-2. **[AXON OS](https://github.com/Frezzaroukos/axon-os)** — a local-first Linux action layer that puts preview and explicit approval before desktop automation, then verifies and records the result.
-3. **[Anafora](https://github.com/Frezzaroukos/anafora)** — a Greek-first local document tool that turns notes into editable drafts and marks claims that need review.
+## What I've built
 
-## Tools I use
+- **[Anabasis](https://github.com/Frezzaroukos/anabasis)** — an offline-first tracker for weighted calisthenics and skill progressions. React and TypeScript PWA, optional Rust/Axum + SQLite sync, Tauri desktop. Open source (MIT), 640 automated tests · [live app](https://anabasis.axonos.dev)
+- **[AXON OS](https://github.com/Frezzaroukos/axon-os)** *(archived)* — a local-first Linux action layer that puts preview and explicit approval before desktop automation, then verifies and records the result.
+- **Oxw Nou** — the live storefront for my family's handmade candles: catalogue, scent guide, order requests without prepayment, Greek and English · [oxwnou.com](https://oxwnou.com) *(private code)*
+- **Thermidor** — a privacy-first calorie diary PWA; everything stays in the browser · [thermidor.axonos.dev](https://thermidor.axonos.dev) *(private code)*
 
-TypeScript, React, Node.js, Python, Rust, SQL, Vitest, and Node's test runner. I enjoy building offline-capable applications, small backend services, and carefully bounded automation.
+## What I can build for you
 
-Available from 25 October 2026 for a junior software or AI engineering role in Chania, elsewhere in Crete, or remote.
+Custom apps · websites and booking pages · bots and automations · logo and brand identity · menus and materials for venues and events · advice on running and growing a small business. Every project starts with a short conversation and a written proposal — details on the [portfolio](https://portfolio.axonos.dev/#services).
 
-**Contact:** [portfolio.axonos.dev](https://portfolio.axonos.dev)
+## Tools
+
+TypeScript, React, Next.js, Python, Rust (working level), SQL, Vitest, pytest. I like offline-capable apps, small backend services and carefully bounded automation.
